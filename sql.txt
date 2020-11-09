@@ -1,0 +1,11 @@
+id,brand,name,engine,mileage,oil,body
+1,BMW,M3,V8,22583,Petrol,Sedan
+2,Mersedes-Benz,E250,V6,0,Petrol,Sedan
+3,BMW,730i,V6,99990,Petrol,Sedan
+4,Audi,A5,V6,76303,Petrol,Coupe
+5,Mazda,MX5,V3,391003,Petrol,Cabrio
+6,Лада,Карина,М241,12325,Бензин,Седан
+7,Cadillac,escalade,V8,83133,Petrol,SUV
+8,Audi,A6,V6,12333,Petrol,Sedan
+9,Лада,Жигули,Е54,21321,Бензин,Седан
+10,Tesla,Model S,Electric motor,312322,Electricity,Sedan
